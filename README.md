@@ -1,2 +1,2 @@
 # appgatitos
-Generador de imagenes ramdom de gatos. Se peude sumar texto.
+Generador de imagenes ramdom de gatos. Se puede sumar texto.
